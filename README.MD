@@ -20,7 +20,7 @@ A lightweight graphical racing game built with Python's **turtle** module. Place
 ## Installation
 
 ```bash
-git clone https://github.com/your‑username/turtle‑race.git
+git clone https://github.com/JudeVdByl/turtle‑race.git
 cd turtle‑race
 ```
 
